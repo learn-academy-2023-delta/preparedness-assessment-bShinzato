@@ -42,7 +42,7 @@ The frontend assessment is a React application with some basic code to define a 
 <img src="./preparedness-frontend/src/assets/open-modal-view.png" width="80%">
 
 - The `Reset` button clears the input field ✅
-  - On the reset button component, add an onClick={handleReset}. create a new function called handleReset, parameter is an event, and return setInputText to an empty string.
+  - On the reset button component, add an onClick={handleReset}. create a new function called handleReset, and return setInputText to an empty string.
 
 ### Frontend Styling Acceptance Criteria
 
